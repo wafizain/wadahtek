@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "slug": "rekomendasi-setup-meja-belajar-budget-pelajar",
+    "title": "Ide Setup Meja Belajar Estetik & Produktif di Bawah 1 Juta",
+    "excerpt": "Ingin setup meja yang rapi tanpa bikin kantong jebol? Ini daftar aksesoris wajib (lampu monitor, cable organizer, dll) khusus untuk budget pelajar dan mahasiswa.",
+    "content": "Bagi pelajar dan mahasiswa, setup meja yang nyaman sangat penting untuk menjaga fokus saat mengerjakan tugas atau skripsi. Tidak perlu barang mahal, dengan budget di bawah Rp1.000.000, Anda sudah bisa mendapatkan setup impian.\n\n### 1. Monitor Light Bar (Lampu Monitor)\nDaripada menggunakan lampu meja konvensional yang memakan tempat, lampu monitor adalah solusi terbaik. Selain menghemat ruang, lampu ini mengurangi silau pada layar dan mata lelah. Anda bisa mendapatkan merek seperti Baseus atau Xiaomi di kisaran Rp200.000 - Rp400.000.\n\n### 2. Cable Organizer (Manajemen Kabel)\nKabel yang berantakan adalah musuh utama setup estetik. Gunakan *cable sleeve* atau *velcro strap* seharga Rp10.000 - Rp50.000 untuk mengikat kabel charger, mouse, dan keyboard menjadi satu jalur yang rapi.\n\n### 3. Desk Mat (Alas Meja)\nDesk mat kulit sintetis atau bahan kain besar (ukuran 80x30cm) bisa didapatkan dengan harga mulai dari Rp50.000. Selain melindungi meja, ini membuat pergerakan mouse lebih mulus dan meja terlihat bersih.\n\nJangan lupa sisihkan dana untuk *stand* laptop agar postur leher Anda tetap terjaga saat mengetik!",
+    "date": "2026-07-16",
+    "author": "Tim Wadahtek",
+    "keywords": "setup meja budget, setup meja pelajar, aksesoris laptop murah, lampu monitor murah, cable organizer"
+  },
+  {
+    "id": "2",
+    "slug": "rakit-pc-gaming-budget-5-jutaan",
+    "title": "Rakit PC Gaming Budget 5 Jutaan: Lancar Valorant & Genshin!",
+    "excerpt": "Panduan merakit PC gaming dengan dana terbatas (5 jutaan). Solusi tepat untuk gamer dengan budget minim yang ingin performa maksimal.",
+    "content": "Siapa bilang merakit PC gaming harus mahal? Dengan budget 5 jutaan, Anda sudah bisa membangun PC yang sangat mumpuni untuk e-sports (Valorant, Dota 2) dan game kasual (Genshin Impact, Minecraft).\n\n### Kunci Utama: AMD Ryzen APU\nSolusi terbaik untuk budget terbatas adalah menggunakan prosesor AMD Ryzen yang memiliki Integrated Graphics (iGPU) kuat, seperti **Ryzen 5 4600G** atau **5600G**.\n\nDengan menggunakan APU, Anda tidak perlu membeli VGA card terpisah (yang harganya bisa jutaan rupiah). Cukup alokasikan budget ke memori (RAM).\n\n### RAM Dual Channel Wajib Hukumnya!\nPastikan Anda membeli 2 keping RAM (misal 2x8GB DDR4 3200MHz) seharga sekitar Rp600.000. iGPU sangat bergantung pada kecepatan RAM dan konfigurasi *Dual Channel* untuk memproses grafis.\n\n### SSD NVMe untuk Kecepatan\nGunakan SSD NVMe kapasitas minimal 256GB atau 512GB (Rp300.000 - Rp500.000). Jangan gunakan HDD sebagai penyimpan OS Anda, karena akan sangat memperlambat performa sistem.",
+    "date": "2026-07-17",
+    "author": "Tim Wadahtek",
+    "keywords": "rakit pc murah, pc gaming 5 jutaan, ryzen 5600g, rakit pc budget, pc rakitan pelajar"
+  }
+]

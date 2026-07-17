@@ -1,56 +1,160 @@
 [
   {
     "id": "1",
-    "slug": "amd-ryzen-5-7600x",
-    "name": "AMD Ryzen 5 7600X",
-    "category": "Processor",
-    "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&q=80&w=800",
-    "summary": "Prosesor gaming mainstream terbaik untuk platform AM5 saat ini.",
-    "pros": ["Performa gaming luar biasa", "Mendukung PCIe 5.0 dan memori DDR5", "Efisien dalam penggunaan daya"],
-    "cons": ["Hanya mendukung DDR5 (biaya awal lebih tinggi)", "Membutuhkan pendingin tambahan (tidak ada stock cooler)"],
+    "slug": "baseus-i-wok-monitor-light-bar",
+    "name": "Baseus i-Wok Monitor Light Bar",
+    "category": "Setup Meja",
+    "image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&q=80&w=800",
+    "summary": "Lampu monitor budget terbaik untuk setup estetik dan produktif tanpa silau layar.",
+    "pros": ["Harga sangat terjangkau untuk pelajar", "Tiga mode temperatur warna (Warm, Cool, Mix)", "Pemasangan mudah dengan klip gravitasi", "Mengurangi mata lelah saat mengerjakan tugas malam hari"],
+    "cons": ["Kualitas bahan mayoritas plastik", "Tombol sentuh terkadang kurang responsif"],
     "specs": {
-      "Cores/Threads": "6 / 12",
-      "Base Clock": "4.7 GHz",
-      "Boost Clock": "Up to 5.3 GHz",
-      "TDP": "105W",
-      "Socket": "AM5"
+      "Material": "Aluminum alloy + PC",
+      "Color Temperature": "2800K-4000K-5500K",
+      "Power": "5W (Max)",
+      "Konektivitas": "USB Type-C"
     },
-    "affiliateLink": "https://shopee.co.id/search?keyword=amd%20ryzen%205%207600x"
+    "specsSource": {
+      "name": "Baseus Official",
+      "url": "https://www.baseus.com"
+    },
+    "links": {
+      "shopee": "https://shopee.co.id/search?keyword=baseus%20i-wok",
+      "tokopedia": "https://tokopedia.com/search?q=baseus%20i-wok",
+      "tiktok": "https://shop.tiktok.com/search?q=baseus%20i-wok"
+    },
+    "userReviews": [
+      {
+        "name": "Irfan M.",
+        "marketplace": "Tokopedia",
+        "rating": 5,
+        "comment": "Cahanya pas banget buat ngetik skripsi malem-malem. Gak bikin layar silau. Worth it buat harga 250rb!"
+      },
+      {
+        "name": "Cindy W.",
+        "marketplace": "Shopee",
+        "rating": 4,
+        "comment": "Desainnya minimalis, bikin setup meja belajar kelihatan lebih rapi dan estetik."
+      }
+    ]
   },
   {
     "id": "2",
-    "slug": "nvidia-rtx-4060-ti",
-    "name": "NVIDIA GeForce RTX 4060 Ti 8GB",
-    "category": "VGA",
-    "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&q=80&w=800",
-    "summary": "Pilihan solid untuk gaming 1080p kompetitif dengan fitur DLSS 3.",
-    "pros": ["Performa DLSS 3 sangat membantu Frame Generation", "Sangat hemat daya", "Suhu relatif dingin"],
-    "cons": ["VRAM 8GB mungkin kurang untuk gaming 1440p masa depan", "Harga rilis agak tinggi dibanding generasi sebelumnya"],
+    "slug": "amd-ryzen-5-5600g",
+    "name": "AMD Ryzen 5 5600G APU",
+    "category": "PC Budget",
+    "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&q=80&w=800",
+    "summary": "Solusi rakit PC gaming dan produktivitas murah meriah tanpa perlu beli VGA card.",
+    "pros": ["Performa CPU 6-Core yang sangat kuat untuk editing", "VGA bawaan (Radeon Graphics) sanggup main Valorant & Genshin Impact", "Sangat hemat daya (TDP 65W)", "Termasuk cooler bawaan (Wraith Stealth)"],
+    "cons": ["Hanya mendukung PCIe 3.0", "Performa iGPU sangat bergantung pada kecepatan RAM (wajib dual channel)"],
     "specs": {
-      "VRAM": "8GB GDDR6",
-      "Memory Bus": "128-bit",
-      "CUDA Cores": "4352",
-      "TDP": "160W",
-      "Power Connector": "1x 8-pin (kebanyakan model custom)"
+      "Cores/Threads": "6 / 12",
+      "Base/Boost Clock": "3.9 GHz / Up to 4.4 GHz",
+      "iGPU": "Radeon 7 Graphics (1900 MHz)",
+      "Socket": "AM4",
+      "TDP": "65W"
     },
-    "affiliateLink": "https://tokopedia.com/search?q=rtx%204060%20ti"
+    "specsSource": {
+      "name": "TechPowerUp",
+      "url": "https://www.techpowerup.com/cpu-specs/ryzen-5-5600g.c2472"
+    },
+    "links": {
+      "shopee": "https://shopee.co.id/search?keyword=ryzen%205%205600g",
+      "tokopedia": "https://tokopedia.com/search?q=ryzen%205%205600g",
+      "tiktok": "https://shop.tiktok.com/search?q=ryzen%205%205600g"
+    },
+    "userReviews": [
+      {
+        "name": "Bima S.",
+        "marketplace": "Tokopedia",
+        "rating": 5,
+        "comment": "Rakit PC 5 jutaan pake ini udah bisa main Valorant 100+ fps. Solusi buat pelajar yang nabung!"
+      },
+      {
+        "name": "Aldi R.",
+        "marketplace": "TikTok Shop",
+        "rating": 5,
+        "comment": "Editing Premiere Pro lancar jaya. Hemat banget gak usah beli VGA mahal-mahal."
+      }
+    ]
   },
   {
     "id": "3",
-    "slug": "keychron-q1-pro",
-    "name": "Keychron Q1 Pro Wireless",
-    "category": "Peripheral",
+    "slug": "vortexseries-gt65",
+    "name": "VortexSeries GT65 Mechanical",
+    "category": "Aksesoris",
     "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&q=80&w=800",
-    "summary": "Keyboard mekanikal custom pre-built terbaik dengan konektivitas wireless.",
-    "pros": ["Build quality aluminium yang premium", "Koneksi wireless Bluetooth yang stabil", "Mendukung QMK/VIA", "Gasket mount untuk suara mengetik yang thocky"],
-    "cons": ["Sangat berat untuk dibawa-bawa", "Harga premium"],
+    "summary": "Keyboard mekanikal budget pilihan pelajar dengan fitur hotswappable dan RGB.",
+    "pros": ["Harga bersahabat di kisaran 300-400 ribuan", "Hotswappable universal 5-pin", "Layout 65% yang hemat tempat di meja belajar", "Sudah dilengkapi busa peredam (dampener)"],
+    "cons": ["Kualitas keycaps standar (ABS)", "Software bawaan terkadang agak sulit dimengerti"],
     "specs": {
-      "Layout": "75%",
-      "Body Material": "Full CNC Machined Aluminum",
-      "Polling Rate": "1000Hz (Wired) / 90Hz (Wireless)",
-      "Battery": "4000 mAh",
-      "Switches": "Keychron K Pro (Hot-swappable)"
+      "Layout": "65% (68 Keys)",
+      "Koneksi": "Wired Type-C (Detachable)",
+      "Switch": "Outemu Red/Brown/Blue",
+      "Hotswap": "Universal 5-Pin",
+      "Backlight": "RGB"
     },
-    "affiliateLink": "https://shopee.co.id/search?keyword=keychron%20q1%20pro"
+    "specsSource": {
+      "name": "VortexSeries",
+      "url": "https://vortexseries.com"
+    },
+    "links": {
+      "shopee": "https://shopee.co.id/search?keyword=vortexseries%20gt65",
+      "tokopedia": "https://tokopedia.com/search?q=vortexseries%20gt65",
+      "tiktok": "https://shop.tiktok.com/search?q=vortexseries%20gt65"
+    },
+    "userReviews": [
+      {
+        "name": "Fajar A.",
+        "marketplace": "Shopee",
+        "rating": 5,
+        "comment": "Keyboard mekanikal pertamaku! Milih switch brown buat ngetik tugas gak berisik, mantap pokoknya."
+      },
+      {
+        "name": "Dinda K.",
+        "marketplace": "Tokopedia",
+        "rating": 4,
+        "comment": "Ukurannya pas banget masuk tas kampus. RGB-nya juga cakep gak lebay."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "slug": "ugreen-usb-c-hub-5-in-1",
+    "name": "Ugreen USB-C Hub 5-in-1",
+    "category": "Produktivitas",
+    "image": "https://images.unsplash.com/photo-1616423640778-28d1b53229bd?auto=format&fit=crop&q=80&w=800",
+    "summary": "Dongle wajib untuk pengguna laptop modern yang kekurangan port USB.",
+    "pros": ["Build quality solid (Aluminium)", "Memiliki port HDMI 4K untuk presentasi atau monitor eksternal", "Plug & Play tanpa perlu driver tambahan", "Harga lebih terjangkau dibanding merek orisinal laptop"],
+    "cons": ["Bisa agak panas saat semua port digunakan bersamaan", "Kabel bawaan cukup pendek"],
+    "specs": {
+      "Input": "USB Type-C",
+      "Ports": "1x HDMI (4K@30Hz), 4x USB 3.0",
+      "Material": "Aluminum Alloy",
+      "Speed": "Up to 5Gbps (USB 3.0)"
+    },
+    "specsSource": {
+      "name": "Ugreen Official",
+      "url": "https://www.ugreen.com"
+    },
+    "links": {
+      "shopee": "https://shopee.co.id/search?keyword=ugreen%20usb-c%20hub",
+      "tokopedia": "https://tokopedia.com/search?q=ugreen%20usb-c%20hub",
+      "tiktok": "https://shop.tiktok.com/search?q=ugreen%20usb-c%20hub"
+    },
+    "userReviews": [
+      {
+        "name": "Rizky D.",
+        "marketplace": "Tokopedia",
+        "rating": 5,
+        "comment": "Nolong banget buat colok flashdisk dan proyektor pas presentasi di kelas karena laptopku cuma ada Type-C."
+      },
+      {
+        "name": "Anisa",
+        "marketplace": "Shopee",
+        "rating": 5,
+        "comment": "Ugreen emang gak pernah gagal soal aksesoris. Awet dan warnanya cocok sama Macbook."
+      }
+    ]
   }
 ]

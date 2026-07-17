@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Link from "next/link";
+import { ThemeProvider } from "../components/ThemeProvider";
 
 export const metadata: Metadata = {
-  title: "Wadahtek | Rekomendasi Teknologi Terkini",
-  description: "Temukan rekomendasi perangkat keras PC, laptop, dan gadget terbaik di Wadahtek.",
+  title: "Wadahtek | Rekomendasi Tech Budget & Setup",
+  description: "Rekomendasi aksesoris HP/laptop, PC build, dan setup meja terbaik dengan budget terjangkau untuk pelajar, mahasiswa, dan pekerja.",
 };
 
 export default function RootLayout({
@@ -13,33 +13,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="id">
-      <body>
-        <header className="header">
-          <div className="container nav-container">
-            <Link href="/" className="logo">
-              <span style={{ color: "var(--color-accent)" }}>/</span> Wadahtek
-            </Link>
-            <nav className="nav-links">
-              <Link href="/">Beranda</Link>
-              <Link href="/kategori/pc">Rakitan PC</Link>
-              <Link href="/kategori/vga">VGA</Link>
-            </nav>
-          </div>
-        </header>
-        
-        <main style={{ minHeight: "calc(100vh - 200px)" }}>
+    <html lang="id" suppressHydrationWarning>
+      <body className="min-h-screen font-sans bg-[var(--background)] text-[var(--foreground)] antialiased selection:bg-[var(--color-accent)] selection:text-white">
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           {children}
-        </main>
-        
-        <footer className="footer">
-          <div className="container">
-            <p className="mono">© {new Date().getFullYear()} Wadahtek. All rights reserved.</p>
-            <p style={{ marginTop: "0.5rem" }}>
-              Situs ini didukung oleh pembaca. Jika Anda membeli melalui tautan di situs kami, kami dapat memperoleh komisi afiliasi.
-            </p>
-          </div>
-        </footer>
+        </ThemeProvider>
       </body>
     </html>
   );
