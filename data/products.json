@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "slug": "amd-ryzen-5-7600x",
+    "name": "AMD Ryzen 5 7600X",
+    "category": "Processor",
+    "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&q=80&w=800",
+    "summary": "Prosesor gaming mainstream terbaik untuk platform AM5 saat ini.",
+    "pros": ["Performa gaming luar biasa", "Mendukung PCIe 5.0 dan memori DDR5", "Efisien dalam penggunaan daya"],
+    "cons": ["Hanya mendukung DDR5 (biaya awal lebih tinggi)", "Membutuhkan pendingin tambahan (tidak ada stock cooler)"],
+    "specs": {
+      "Cores/Threads": "6 / 12",
+      "Base Clock": "4.7 GHz",
+      "Boost Clock": "Up to 5.3 GHz",
+      "TDP": "105W",
+      "Socket": "AM5"
+    },
+    "affiliateLink": "https://shopee.co.id/search?keyword=amd%20ryzen%205%207600x"
+  },
+  {
+    "id": "2",
+    "slug": "nvidia-rtx-4060-ti",
+    "name": "NVIDIA GeForce RTX 4060 Ti 8GB",
+    "category": "VGA",
+    "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&q=80&w=800",
+    "summary": "Pilihan solid untuk gaming 1080p kompetitif dengan fitur DLSS 3.",
+    "pros": ["Performa DLSS 3 sangat membantu Frame Generation", "Sangat hemat daya", "Suhu relatif dingin"],
+    "cons": ["VRAM 8GB mungkin kurang untuk gaming 1440p masa depan", "Harga rilis agak tinggi dibanding generasi sebelumnya"],
+    "specs": {
+      "VRAM": "8GB GDDR6",
+      "Memory Bus": "128-bit",
+      "CUDA Cores": "4352",
+      "TDP": "160W",
+      "Power Connector": "1x 8-pin (kebanyakan model custom)"
+    },
+    "affiliateLink": "https://tokopedia.com/search?q=rtx%204060%20ti"
+  },
+  {
+    "id": "3",
+    "slug": "keychron-q1-pro",
+    "name": "Keychron Q1 Pro Wireless",
+    "category": "Peripheral",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&q=80&w=800",
+    "summary": "Keyboard mekanikal custom pre-built terbaik dengan konektivitas wireless.",
+    "pros": ["Build quality aluminium yang premium", "Koneksi wireless Bluetooth yang stabil", "Mendukung QMK/VIA", "Gasket mount untuk suara mengetik yang thocky"],
+    "cons": ["Sangat berat untuk dibawa-bawa", "Harga premium"],
+    "specs": {
+      "Layout": "75%",
+      "Body Material": "Full CNC Machined Aluminum",
+      "Polling Rate": "1000Hz (Wired) / 90Hz (Wireless)",
+      "Battery": "4000 mAh",
+      "Switches": "Keychron K Pro (Hot-swappable)"
+    },
+    "affiliateLink": "https://shopee.co.id/search?keyword=keychron%20q1%20pro"
+  }
+]
